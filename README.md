@@ -17,7 +17,7 @@ jupyter_1  |         http://(container_id or 127.0.0.1):8888/?token=some_token
 ```
 
 
-# open jupyter noteboo
+# open jupyter notebook
 
 ```
 http://localhost:8888/?token=some_token
