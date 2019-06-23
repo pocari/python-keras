@@ -8,7 +8,7 @@ docker-compose build
 # run
 
 ```
-docker-compose run
+docker-compose up
 
 ...snip
 jupyter_1  |     Or copy and paste one of these URLs:
